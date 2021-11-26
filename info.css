@@ -1,0 +1,44 @@
+ th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+
+  }
+  th, td {
+    background-color: #ee718c;
+  }
+  .orderbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.9;
+    margin-left: 35%;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+  }
+
+  h1{
+    text-align: center;
+  }
+  input{
+    width: 100%;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .sbtn{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background:linear-gradient(to right ,#ff105f,#ffad06); 
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+  }
